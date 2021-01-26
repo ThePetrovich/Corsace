@@ -1,26 +1,26 @@
 {
-    "flag": "",
-    "login": "",
+    "flag": "https://osu.ppy.sh/images/flags/RU.png",
+    "login": "ВОЙТИ",
     "mca_ayim": {
         "header": {
-            "mca": "",
-            "ayim": "",
-            "login": "",
-            "welcomeBack": "",
-            "admin": "",
-            "staff": "",
-            "logout": ""
+            "mca": "MAPPER'S <br> CHOICE <br> AWARDS",
+            "ayim": "A YEAR <br> IN <br> MAPPING",
+            "login": "ВОЙТИ",
+            "welcomeBack": "с возвращением",
+            "admin": "АДМИН",
+            "staff": "ОРГАНИЗАТОР",
+            "logout": "ВЫЙТИ"
         },
         "login": {
-            "login": "",
+            "login": "вход",
             "message": {
-                "1": "",
-                "2": ""
+                "1": "Похоже, вы не вошли!<br>Войдите с помощью своего аккаунта osu!, и вы сразу сможете голосовать/номирировать!",
+                "2": "Вы также сможете войти через Discord, но это <b>не требуется</b> для голосования.<br>Вход через Discord <b>обязателен</b> для организаторов, работающих над MCA/AYIM.</span>"
             },
-            "authOsu": "",
-            "authOsuComp": "",
-            "authDiscord": "",
-            "authDiscordComp": ""
+            "authOsu": "Нажмите здесь, чтобы войти через osu!",
+            "authOsuComp": "Подтверждение аккаунта osu! завершено. Привет, ",
+            "authDiscord": "Нажмите здесь, чтобы войти через Discord",
+            "authDiscordComp": "Подтверждение аккаунта Discord завершено. Привет, "
         }
     },
     "ayim": {
@@ -71,24 +71,24 @@
     },
     "mca": {
         "main": {
-            "voting": "",
-            "nominating": "",
-            "results": "",
+            "voting": "голосование",
+            "nominating": "номинирование",
+            "results": "результаты",
             "undefined": "",
-			"mapsetsLabel": "",
-			"mappersLabel": "",
-			"commentsLabel": "",
-			"recordsLabel": "",
-			"statisticsLabel": "",
+			"mapsetsLabel": "МАПСЕТЫ",
+			"mappersLabel": "МАППЕРЫ",
+			"commentsLabel": "КОММЕНТАРИИ",
+			"recordsLabel": "ЗАПИСИ",
+			"statisticsLabel": "СТАТИСТИКА",
             "stage": {
-                "voting": "",
-                "nominating": "",
+                "voting": "этап голосования",
+                "nominating": "этап номинирования",
                 "undefined": ""
             },
-            "rankedSets": "",
-            "nominateNow": "",
-            "voteNow": "",
-            "daysLeft": "",
+            "rankedSets": "РЕЙТИНГОВЫЕ СЕТЫ",
+            "nominateNow": "номинируйте сейчас !",
+            "voteNow": "голосуйте сейчас !",
+            "daysLeft": "дн. осталось",
             "message": {
                 "1": "",
                 "2": "",
